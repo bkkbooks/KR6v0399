@@ -19,17 +19,17 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0399_000-B.yaml, hash: 'sha256:6c9e376645b8077cf5c4d9c04e30bd298026f1ad003efc65ed619725a6e51744'}
+  - {seq: 0, filename: KR6v0399_000-B.yaml, hash: 'sha256:83b75eb1ef7bcbe0a104e2c11846f7821cf600c79b94e49bc78fd890d46d9b0e'}
   - {seq: 1, filename: KR6v0399_001-B.yaml, hash: 'sha256:8e9f465626903b8b40f77ed11c0c35cf1aec3c824129b4f53cb5a7e996744cd4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0399_000-B.markers.yaml, hash: 'sha256:0be14717a75361caa9986e4a520ad7df2ddc76ddfb679c1b012260fede6fe5ae'}
+  - {seq: 0, role: markers, filename: assets/KR6v0399_000-B.markers.yaml, hash: 'sha256:ce05e7558997824b08a36a0eea1c45d3867e3eb9ec5119c988df85c6ef2ee6a5'}
   - {seq: 1, role: markers, filename: assets/KR6v0399_001-B.markers.yaml, hash: 'sha256:056dc7204f83f1cafbbac1c1015536432fe6f24dd43e311af596937a13f5849e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0399_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 禪林象器箋序
@@ -17615,4 +17615,4 @@ table_of_contents:
   label: 包鉤
   type: mulu
   level: 1
-hash: sha256:53d981b6b46af154082b209b286a1a26e09ab988b31ca2040ed4615ef36ec611
+hash: sha256:7687fdca6bbc7def8f7650d2c5ad48861b56a66c0f49b9c4d3abe9daf0428c94
